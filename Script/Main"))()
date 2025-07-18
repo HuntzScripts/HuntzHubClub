@@ -1,1 +1,2 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HuntzScripts/HuntzHubClub/refs/heads/main/Script/Main%22))()
 loadstring(game:HttpGet("https://pastefy.app/0K6pcf6B/raw"))()
